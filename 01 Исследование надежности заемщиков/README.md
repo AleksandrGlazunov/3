@@ -29,4 +29,4 @@
 
 ## Навыки и инструменты
 
-`pandas`, `EDA`
+`python`, `pandas`, `EDA`
