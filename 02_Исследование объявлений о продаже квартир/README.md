@@ -15,4 +15,4 @@
 
 ## Навыки и инструменты
 
-`pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, `EDA`.
+`pandas`, `numpy`, `matplotlib`, `seaborn`, `EDA`.
